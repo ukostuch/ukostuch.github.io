@@ -1,6 +1,5 @@
 url:  https://ukostuch.github.io
 baseurl: /agency-jekyll-theme/
 # Build settings
-remote_theme: Hacker
 markdown: kramdown
-theme: minima
+remote_theme: Hacker
