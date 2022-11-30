@@ -2,4 +2,4 @@ url:  https://ukostuch.github.io
 baseurl: /agency-jekyll-theme/
 # Build settings
 markdown: kramdown
-theme: hacker
+theme: minima
