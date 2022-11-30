@@ -2,4 +2,5 @@ url:  https://ukostuch.github.io
 baseurl: /agency-jekyll-theme/
 # Build settings
 markdown: kramdown
+permalink: pretty
 remote_theme: Hacker
