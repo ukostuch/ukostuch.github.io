@@ -3,4 +3,4 @@ url:  https://ukostuch.github.io
 title: Ula's page
 description:           This is my own page
 google_analytics:
-theme: slate-theme-minimal
+theme: jekyll-theme-slate
